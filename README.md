@@ -1,1 +1,3 @@
 # labvirtual
+
+Repositório em desenvolvimento. 
