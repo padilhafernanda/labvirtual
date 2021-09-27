@@ -7,8 +7,9 @@ authors:
     family-names: Padilha
     given-names: Fernanda
 cff-version: "1.1.0"
+date-released: 2021-07-24
 message: "If you use this software, please cite it using these metadata."
 repository-code: "https://github.com/padilhafernanda/labvirtual"
 title: "Projeto_Lab_Ele"
-version: "1.0"
+version: "1.13"
 ...
