@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+abstract: "Esta versão apresenta os scripts implementados para o projeto de Laboratório Virtual de Eletrônica."
+authors: 
+  -
+    affiliation: "Universidade Federal de Santa Maria - UFSM"
+    family-names: Padilha
+    given-names: Fernanda
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/padilhafernanda/labvirtual"
+title: "Laboratório Virtual de Eletrônica"
+version: "1.0"
+...
